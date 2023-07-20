@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c3a672c6.css",
-    "main.js": "/static/js/main.12c6b010.js",
+    "main.js": "/static/js/main.d737d346.js",
     "static/media/temple2.jpg": "/static/media/temple2.1aae36c267f1dcb235de.jpg",
     "static/media/temple1.jpg": "/static/media/temple1.ba51c41d52fa90c6a810.jpg",
     "static/media/indonesia.jpg": "/static/media/indonesia.2d0b73a51fa9d65d0be7.jpg",
@@ -11,10 +11,10 @@
     "static/media/DalLake1.jpg": "/static/media/DalLake1.85b296d355ae72a0912e.jpg",
     "index.html": "/index.html",
     "main.c3a672c6.css.map": "/static/css/main.c3a672c6.css.map",
-    "main.12c6b010.js.map": "/static/js/main.12c6b010.js.map"
+    "main.d737d346.js.map": "/static/js/main.d737d346.js.map"
   },
   "entrypoints": [
     "static/css/main.c3a672c6.css",
-    "static/js/main.12c6b010.js"
+    "static/js/main.d737d346.js"
   ]
 }
