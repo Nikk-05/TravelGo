@@ -11,7 +11,7 @@ export default function NavBar() {
   return (
     <>
       <nav className="navbarItems">
-        <h1 className="navbar-logo">Let's Travel</h1>
+        <h1 className="navbar-logo">TravelGo</h1>
         <div className="menu-icon" onClick={handleClick}>
           {/*Making toggle the icon so that atonce only one icon present  */}
           <i className={barClick ? 'fa fa-bars' : 'fa fa-times'}></i>
